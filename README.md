@@ -131,19 +131,19 @@ rather than evaluating discounts based only on sales volume or revenue.
 
 ecommerce-profit-leakage-analysis/
 │
-├── data/
+├── DATA/
 │   └── ecommerce_dataset.zip
 │
-├── notebooks/
+├── NOTEBOOK/
 │   └── E-commerce_Profit_Leakage_Analysis.ipynb
 │
-├── sql/
+├── SQL/
 │   └── Analysis_Queries.sql
 │
-├── powerbi/
+├── POWER_BI/
 │   └── E-commerce_Profit_Leakage_Dashboard.pbix
 │
-├── images/
+├── IMAGES/
 │   ├── dashboard_page1.png
 │   ├── dashboard_page2.png
 │   └── dashboard_page3.png
